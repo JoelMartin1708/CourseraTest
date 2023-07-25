@@ -1,0 +1,48 @@
+<!DocTyPe html>
+<html>
+    <head>
+        <style>
+            body {
+ background-image: url("background1.jpg");
+ background-repeat: no-repeat;
+ background-color: darkred;
+ background-attachment: fixed;
+ background-size: cover;
+ text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkgreen;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+    font-size: 350%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 4px;
+  cursor: pointer;
+  background-color: darkred;
+  border: thistle;
+  border-style: solid;
+}
+</style>
+        <meta charset="utf-8">
+        <title>MY WEB PAGE</title>
+    </head>
+    <body>
+        <h1>Quote Generator</h1> 
+        <hr>
+        <h2><p><div>DISCOVER THE PERFECT</sdiv> 
+            <div>QUOTE</div> <div>FOR ANY OCCASION</div></p></h2>
+            <button class="button">Get Started</button>  
+    </body>
+</html>
